@@ -1,21 +1,24 @@
+
+# Internship Assignment – Responsive Website
+
 ## Project Overview
-A static, responsive website developed using the provided Figma design reference.
+A static, responsive website developed using a provided Figma design reference.
 
 ## Technologies Used
-- HTML
-- CSS
-- Google Fonts
+- HTML5
+- CSS3
+- Google Fonts (Roboto)
 
 ## Features
-- Responsive navigation
-- Desktop, laptop, tablet and mobile layouts
+- Responsive navigation menu
 - Hero section with illustrations
 - Compliance information section
-- Responsive feature cards
+- Feature cards
 - CSS hover effects
-- Smooth page scrolling
+- Smooth scrolling
+- Responsive layouts for desktop, laptop, tablet and mobile
 
-## Responsive Breakpoints
+## Responsive Testing
 - Desktop: 1400px
 - Laptop: 1280px
 - Tablet: 768px
@@ -26,10 +29,13 @@ A static, responsive website developed using the provided Figma design reference
 - style.css – Styling and responsive layouts
 - assets/images – Website illustrations
 
-## How to Run
-1. Open the project folder in Visual Studio Code.
-2. Open index.html in a browser.
-3. Resize the browser to test responsiveness.
+## Live Website
+https://abdussameevasaikar.github.io/Internship_Assignment/
+
+## How to Run Locally
+1. Download or clone this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open index.html in a browser.
 
 ## Project Type
-Static website built using HTML and CSS.
+Static responsive website using HTML and CSS.
